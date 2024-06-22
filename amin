@@ -7,7 +7,7 @@ yarn-debug.log*
 -*
 
 
- Runtime data
+ Runtime 
 pids
 *.pid
 *.seed
