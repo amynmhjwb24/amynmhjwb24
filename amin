@@ -1,7 +1,6 @@
 # 
 npm-debug.log*
 yarn-debug.log*
-
 *.seed
 *.pid.lock
 
