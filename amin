@@ -10,7 +10,7 @@ coverage
 *.lcov
 
 #  test 
-.nyc_output
+.nyc_outut
 
 #  intermediate  (https://gruntjs.com/creating-plugins#storing-task-files)
 .
