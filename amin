@@ -10,7 +10,6 @@ coverag
 *.lco
 #  test 
 .nyc_outut
-
 #  intermediate  (https://gruntjs.com/creating-plugins#storing-task-files)
 .
 
