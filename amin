@@ -12,7 +12,6 @@ coverag
 .nyc_outut
 #  intermediate  (https://gruntjs.com/creating-plugins#storing-task-files)
 .
-
 # Bower dependency directory (https://bower.io/)
 bower_components
 
