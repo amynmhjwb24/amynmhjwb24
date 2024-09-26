@@ -7,7 +7,7 @@ yarn-debug.log
 lib-co
 # Coverage directory used by tools like istanbul
 coverag
-*.lc
+*.l
 #  test 
 .nyc_outut
 #  intermediate  (https://gruntjs.com/creating-plugins#storing-task-files)
