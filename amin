@@ -9,7 +9,7 @@ lib-co
 covera
 *.l
 #  test 
-.nyc_outut
+.nyc_outu
 #  intermediate  (https://gruntjs.com/creating-plugins#storing-ta
 .
 # Bower dependency directory (https://bower.io/)
