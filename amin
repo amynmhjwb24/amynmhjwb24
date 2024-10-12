@@ -10,7 +10,7 @@ covera
 *.l
 #  test 
 .nyc_outu
-#  intermediate  (https://gruntjs.com/creating-plugins#storing-ta
+#  intermediate  (https://gruntjs.com/creating-plugins#storing-t
 .
 # Bower dependency directory (https://bower.io/)
 bower_components
